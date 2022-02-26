@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A iornall of certaine principall passages in and before the towne of S'hertogenbosh from the 18. of August till the 1. of September, at what time they fell to capitulation concerning the rendition of the towne. VVhereunto is added, a sermon made by the Bishop of S'hertogenbosh in S. Iohns Church, (before the towne was rendred) to appease the burgers and inhabitants, which were in an vprore.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1629</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72300</idno>
+            <idno type="STC">STC 13248.4</idno>
+            <idno type="STC">ESTC S102780</idno>
+            <idno type="EEBO-CITATION">99898407</idno>
+            <idno type="PROQUEST">99898407</idno>
+            <idno type="VID">176679</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176679)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2065:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A iornall of certaine principall passages in and before the towne of S'hertogenbosh from the 18. of August till the 1. of September, at what time they fell to capitulation concerning the rendition of the towne. VVhereunto is added, a sermon made by the Bishop of S'hertogenbosh in S. Iohns Church, (before the towne was rendred) to appease the burgers and inhabitants, which were in an vprore.</title>
+                  <author>Ophovens, Michel van, 1571-1637.</author>
+                  <author>Frederick Henry, Prince of Orange, 1584-1647.</author>
+                  <author>'s-Hertogenbosch (Netherlands)</author>
+               </titleStmt>
+               <extent>[2], 18; [2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed [by William Jones] for Nicholas Bourne at the south entrance of the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1629.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bishop of S'hertogenbosh = Michel van Ophovens.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Lacks "Articles agreed upon..."</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>'s-Hertogenbosch (Netherlands) --  History --  Siege, 1629 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176679:1"/>
+            <pb facs="tcp:176679:1" rendition="simple:additions"/>
+            <p>A IORNALL OF Certaine principall paſſages in and before the Towne of <hi>S'hertogenboſh,</hi> From the 18. of Auguſt till the 1. of September, at what time they fell to capitulation concerning the Rendition of the Towne. <hi>VVhereunto is added,</hi> A Sermon made by the Biſhop of
+<hi>S'herto<g ref="char:EOLhyphen"/>genboſh</hi> in S. Johns Church, (before the Towne was rendred) to appeaſe the Burgers and Inhabitants, which were in an vprore:</p>
+            <p>LONDON, Printed for <hi>Nicholas Bourne</hi> at the South Entrance of the Royall Exchange. 1629.</p>
+         </div>
+      </front>
+      <body>
+         <div type="journal">
+            <pb facs="tcp:176679:2"/>
+            <pb n="1" facs="tcp:176679:2"/>
+            <head>A Jornall of certaine principall paſſages in and before the towne of <hi>S'hertogenboſh,</hi> From the 18. of Auguſt till the firſt of September, at what time they fell to capitulation concer<g ref="char:EOLhyphen"/>ning the Rendition of the towne:</head>
+            <div type="passage">
+               <head>From the Quarter of the Prince of <hi>Orenge</hi> at
+<hi>Vucht</hi> the 21 of Auguſt. 1629.</head>
+               <p>IN this ſiege the Prince of <hi>Orenge</hi> is very care<g ref="char:EOLhyphen"/>full, and taketh good order for all, at the ſame time, the ſaid Towne was battred as well from this quarter as of all other quarters as faſt as the Ordnance could play, ſo that they make great holes in the walls, they within play<g ref="char:EOLhyphen"/>ed very fiercely with their Ordnance, The gal<g ref="char:EOLhyphen"/>lery was with all haſte that could bee made al<g ref="char:EOLhyphen"/>moſt brought into the walles; on every ſide of the gallery is made a battery of two peeces of Ordance, by the which we did keepe the Ord<g ref="char:EOLhyphen"/>nance Ord<g ref="char:EOLhyphen"/>nance of the Enemies within the Citty, that they can doe nothing to hinder vs: On the ſame day at night our Ordance played vpon the Citty all night long, and there were yet ſome granads ſhot into the Towne. The 22 came a Trumpet<g ref="char:EOLhyphen"/>ter from the Enemies, into the Leager, for to ranſome and releaſe the Crabatts, which ours<pb n="2" facs="tcp:176679:3"/>haue taken Priſoners, in the defeating of the Comp. of Crabatts, which we did defeat ſome dayes ſince; Againſt night our Cannon begun againe to play vpon the walls and houſes, and continued the whole night through. They with<g ref="char:EOLhyphen"/>in had put vpon the walles an Ancient with a Bourgous croſſe, which we ſhot al in peeces. On the ſame night haue they within the Towne made an allarme, calling fall to, fall to; and they came out in the meane while with ſome boates, and tooke in the battery, which lay betweene the great Sconce, &amp; the quarter of
+<hi>Pinſen,</hi> ſpoy<g ref="char:EOLhyphen"/>ling the victulers, but found none Ordnance, becauſe it is everynight brought vnder the great Sconce, and are ſo againe returned into the Towne.</p>
+            </div>
+            <div type="passage">
+               <head>Another the 22. of the ſame.</head>
+               <p>SInce yeſterday we were ſpeedily diſpatched for the ſetting of the bints, or beames, ſo that now already are ſet into the ditches 41. bintes, whereby to day, there ſhall come ten more, and all is gone well forth without any hinderance. Laſt night haue ours with boates brought over the dommell, into the ditch, aboue 60. Sconce<g ref="char:EOLhyphen"/>korues, for to make a new battery, wherewith we ſhall hinder the Towne, and yet we brought great ſtore of earth and boughes, for to fill vp the ditches.</p>
+               <p>For to ſee what the Enemies did within the Towne his Princely Excellence hath given or<g ref="char:EOLhyphen"/>der<pb n="3" facs="tcp:176679:3"/>to be made two ladders, with boates by the Vuchter gate; But when ours were for to clime vpon the ladders, they within did ſo furiouſly ſhoore vpon them, that ours were forced to re<g ref="char:EOLhyphen"/>tire, with the loſſe of 8. men ſlaine, and 11. hurt, and brought their ladders againe in the quar<g ref="char:EOLhyphen"/>ter. Laſt night were brought vpon the end of the ditch two halfe Cortowes, which did ſtand afore vpon the new battery, and ours haue the ſame night ſent ſome granads into the Towne, which did worke well. The 19. was ſlaine (in the approaches of the Prince of
+<hi>Orange</hi>) the Lieuetenant of the Collonell <hi>Vere.</hi> Our troopes which haue beene out, neere <hi>Tongeren</hi> in the County of <hi>Luike,</hi> report, that they haue vnder<g ref="char:EOLhyphen"/>ſtood, that the Emperour would beſiege
+<hi>Laycke,</hi> whereupon thoſe of <hi>Luicke</hi> haue written for aſſi<g ref="char:EOLhyphen"/>ſtance vnto their Biſhop, which hee refuſed; whereupon they laboured to haue aſſiſtance from other Potentates, as of France, and of Sa<g ref="char:EOLhyphen"/>voy.</p>
+            </div>
+            <div type="passage">
+               <head>From the quarter of his Highnes Count <hi>Erneſt,</hi> the
+23. of Auguſt. 1629.</head>
+               <p>THe 17. we haue brought over the little gal<g ref="char:EOLhyphen"/>lery into the Horneworke; and wee began preſently to mine thereunder, the 19. wee put a mine on fire, which flew in the ayre, and did worke well, and there were ſlaine aboue 150. of the Enemies ſide, whereupon we preſently fell
+<pb n="4" facs="tcp:176679:4"/>on our Enemies, that were within the Towne, and three ſeverall times, we were repulſed, with great ſtaues, pikes, and ſuch other things, where<g ref="char:EOLhyphen"/>by our ſide were killed, and hurt, two Cap<g ref="char:EOLhyphen"/>taines, with one Lieutenant, and ſome others? Meane while we did play vpon the Towne, with
+8 halfe Curtowes, as faſt as the Ordnance could play; which nevertheleſſe ſhowed themſelues vpon the walles. Preſently after that, we began to myne again, which we put on fire, &amp; wrought well: A Frieſland Captain which had the watch there, fell preſently with all his forces vpon the ſame, and made them within the Towne to re<g ref="char:EOLhyphen"/>tire, but be cauſe hee was not preſently aſſiſted of his Lieutenant, thoſe of the Towne did make him retire back againe; So that the ſaid Cap<g ref="char:EOLhyphen"/>taine, with ſome other ſoldiers were ſlaine, and his ſonne deadly hurt.</p>
+               <p>Yeſterday after dinner time, at three of the clocke, we haue put on fire a myne, by the Hornworke, whereupon ours preſently did fall with great force vpon them, that they within not onely did retire, but were forced to leaue altogether the Horneworke; wherein now ours did fortifie themſelues, and approached to the Hintemer-gate. The water mills dryed vp the Land round about the Towne.</p>
+               <p>The 19. ours haue gotten a Carre with pow<g ref="char:EOLhyphen"/>der, which came from Haſſelt, out of the Coun<g ref="char:EOLhyphen"/>ty of Luike, ſaying, that he would ſell it in the Leager amongſt the horſemen, though it is not beleeved; But it is likely, they would haue<pb n="5" facs="tcp:176679:4"/>brought it into the Towne, in little ſackes, the powder is vnladen, and the Carre-man is kept ſafely, we haue ſhot this night vpon the Towne as fiercely, as ever we haue done hitherto.</p>
+            </div>
+            <div type="passage">
+               <head>Another from the Leager before <hi>S'her<g ref="char:EOLhyphen"/>togenboſh</hi> the
+23.</head>
+               <p>SInce yeſterday wee did not advance much with our gallery, becauſe they within did play very faſt vpon our new gallery, and haue ſpoiled two of our bintes or beames; And wee are ſtill buſie to bring earth, and bavins. This whole night wee did play with our Ordnance vpon the houſes, and laſt night wee haue ſent ſome granads into the Towne, therefore they within did play very faſt with their Ordnance.</p>
+               <p>Yeſterday were taken by our men 50. hor<g ref="char:EOLhyphen"/>ſes, and ſome Priſoners, and brought vp to the Leager. The Lord of Brederode hath this night played very faſt both with his Cannon, and musketts, vpon the Towne, wee hope in a ſhort time to be in the walles by the Hintemer gate; becauſe there is no ditch betweene the Horneworke and the gate, that can hinder vs. His Highneſſe Count <hi>William</hi> doth advance well with his approaches, and ſhot yeſterday very fiercely vpon the Towne.</p>
+            </div>
+            <div type="passage">
+               <pb n="6" facs="tcp:176679:5"/>
+               <head>Another of the Leager before <hi>S'hertogenboſh</hi> the
+24. 26 27. and 30. of Auguſt 1629.</head>
+               <p>THe 24. we haue here in the Leager made bone-fires, for the great victory of We<g ref="char:EOLhyphen"/>ſel, after we had given thankes vnto the Lord; and the Triumph was after the Leagers manner as followeth.</p>
+               <p>His Excellence commanded, that none ſhould begin, before the ſignall of the Iacht before Creveceur were done. The Princeſſe was her ſelfe vpon the walls of Creveceur, and the Iacht played his Cannon, then thoſe of the fort Cre<g ref="char:EOLhyphen"/>veceur did play with 18. peeces, and then were played by thoſe of the Roudoutes along the ditch of the Boſh, then the Lord
+<hi>Piuſen,</hi> then the great and little Sconces, and then the Ord<g ref="char:EOLhyphen"/>nance about the quarter of the Prince of O<g ref="char:EOLhyphen"/>range; Then after thoſe the quarter of Brede<g ref="char:EOLhyphen"/>rode from his fort, againſt the <hi>Petteler.</hi> There his Highneſſe Count <hi>Erneſt,</hi> with his whole and halfe Cortowes, as alſo at Orten. When the Ordnance had played on all places, began all the Muskettiers of the whole Leager. Thoſe of the quarter of his Princely Excellency began firſt, and then Eaſtward the one after the other round about all the Leager as a running fire; The Pikemen and the ſervants of the horſemen did carry burdens of ſtraw vpon their Pikes and ſtaucs, going ſo through all parts of the Leager,<pb n="7" facs="tcp:176679:5"/>that it made a great light. When the ſecond charge of the Canon began was caſt into the Towne a Morter, what it did worke we did not heare yet. Vpon the ſame time wee ſhot vpon the Towne all the Ordnance, with the muskets, and other fireworkes of flying dragons, and fire piles we did not want, ſo that the whole lea<g ref="char:EOLhyphen"/>ger was like a flame. The skippers in the quar<g ref="char:EOLhyphen"/>ter of Englen did burne pitch tonnes, and did hang out lanternes on their maſts. Theſe bone<g ref="char:EOLhyphen"/>fires were ſeene of the Prince, and of the Prin<g ref="char:EOLhyphen"/>ceſſe, but not of <hi>Grobbendouck,</hi> becauſe hee had the gout. Betweene 24. and 25. thoſe of our ſide brought a great ſtore of Sconce korues vp<g ref="char:EOLhyphen"/>on the end of the ditch, where they are buſie to make a battery: And there was beſpoken to be made a gallery for
+28000. gilders along the ditch from the Vuchter bulworke vnto the gate, where thoſe of the Petteler Sconce went it, and out the Towne, were ſet Sconce korues, and made Trenches for to hinder them to goe out and in the Towne. In the night the Enemies did come out we thought they would haue come vpon the dommell, but did nothing; onely they tooke two or three Priſoners of my Lord of <hi>Beeverworts</hi> Comp. with a voluntary, and hurt a meſſenger, and ſlew a Wagoner, ſo they retired, with ſome loſſe of theirs. Vpon the
+25. in the night there were 45. bintes of our gallery brought over, &amp; ſhalbe made ſo ſtrong, that no firebals ſhall hinder them. Our new batteries on each ſide of the gallery play ſtill vpon the town,
+<pb n="8" facs="tcp:176679:6"/>when they ſee advantage for the defending of the gallery, they are daily buſie on the dommel behinde the defence or blinde; and are yet bu<g ref="char:EOLhyphen"/>ſie to make two batteries, with two Corps de gardes. The Trenches, which wee make from the Vuchter gate vnto the Petteler gate are ſtayed for a time, becauſe we haue need of earth and bavins for the galleries and batteries, which is to be fetched a great way off. Laſt night is brought hither great ſtore of earth and bavins more then we can ſpend to day; ſo that the gal<g ref="char:EOLhyphen"/>lery will ſpeedily bee advanced. The 26. wee played with our Ordnance fiercely vpon the Towne. Yeſternight wee learned out of the quarter of Count
+<hi>Erneſt</hi> that of the Enemies, moſt of them were departed from the Horne<g ref="char:EOLhyphen"/>worke, and are retired in the halfe Moone. Thoſe of the quarters of Brederode, Count <hi>William,</hi> and <hi>Pinſen,</hi> did their indeavours with their Ordnance.</p>
+               <p>Since the 26. at that day and laſt night is the Towne fiercely battred with Ordnance, thoſe within anſwered, but few times; our gallery before the Vuchter gate doth advance well, and there are at this preſent brought over 51. bintes. Our new Batteries with the Corps de gardes ſhall be ready to day, and the gallery ſhall alſo bee brought over, whereto already were brought great ſtore of Materialls for to doe it with the firſt. Wee haue yeſterday ſent ſome granads into the Towne. Wee learne al<g ref="char:EOLhyphen"/>ſo from the quarter of Count <hi>Erneſt,</hi> that<pb n="9" facs="tcp:176679:6"/>the Enemies yeſterday did throw with granads vpon the Horneworke, (which wee haue gotten from them) which hinder vs much, ſo that the great gallery cannot ſpeede ſo well.</p>
+               <p>Laſt night went out two Companies of horſe<g ref="char:EOLhyphen"/>men and 200. fire lockes for to try their fortune, and to ſee what the Enemies will attempt vpon vs, becauſe there was ſpeach that they would try their fortune againe againſt vs. The water milles did not worke, becauſe the water did run very faſt of it ſelfe, and that the Maſe began to grow little, and doth run very faſt downe. We expect every day ſome newes, becauſe ours were very buſie for to get wood, bavins, and earth, ſo that it ſhall not be long ere we be Ma<g ref="char:EOLhyphen"/>ſters of the Towne. Notwithſtanding they put out vpon the walles on all ſides the Bourgous Croſſes. Now preſently we got tidings that the Enemies haue left the reſt of their Horneworke by the Hintemer gate, and that thoſe of our ſide keepe their lodging there, and that ours advance with all force their approaches by the halfe Moone. Now at this preſent came one that ran out of the Towne, which was brought to his Excellency, wherefore the Committies of the high and mighty States, are by his Excellen<g ref="char:EOLhyphen"/>cy, for to examine him, he that was runne over ſaid that the houſe of the Governour
+<hi>Grobben<g ref="char:EOLhyphen"/>douck</hi> was kept with 9. guards, becauſe the Bur<g ref="char:EOLhyphen"/>gers will ſpeake with him, and he will not heare them, therefore the Burgers are in great altera<g ref="char:EOLhyphen"/>tion<pb n="10" facs="tcp:176679:7"/>with him, they would faine yeeld the Towne, the Clergy ſeeke all practiſes for to appeaſe the Burgers, requiring them that they yet vvould haue patience for 14. dayes, if not, that they will employ ſome other meanes. A<g ref="char:EOLhyphen"/>mong the Common Burgers there is great ne<g ref="char:EOLhyphen"/>ceſſitie, and two monthes ſince they haue not had in their houſes neither butter nor cheeſe, (as it is reported by the ſaid man which was runne out of the Towne:) further there is great morta<g ref="char:EOLhyphen"/>lity in the Towne, there dyed of theirs
+3400 men as well by ſhot as otherwiſe. The 29 did thoſe of our ſide play very fiercely vpon the Towne. On the ſame day is brought here great ſtore of earth and bavins with ſhips, there are al<g ref="char:EOLhyphen"/>ready ſet 55. bintes, wee cannot ſet two bintes more. Laſt night did ſeven men worke all night in the gallery. Thoſe horſemen and firelockes, whereof I haue ſpoken here before, haue defea<g ref="char:EOLhyphen"/>ted a convoy of the Enemies, which went for <hi>Breda,</hi> there were ſlaine about 50 men, and haue brought Priſoners with them, 40. men, with a Ritmaſter, and a Lieutenant, with a Cornet, and betwixt 70. or
+80. braue horſes well furniſhed.</p>
+               <p>On the 29. we began to make another gallery betweene the Corps de garde, whereof already are ſet 6. bints, running ſtraight vpon the towne.</p>
+               <p>On the ſame day in the quarter of Count <hi>Er<g ref="char:EOLhyphen"/>neſt</hi> is brought about 200. wagons with bavins for the great gallery.</p>
+               <p>On the ſame day we haue throwne great ſtore of bavins and earth into the ditch, ſo that there<pb n="11" facs="tcp:176679:7"/>doe vvant but tvvo Rods, and vve thought be<g ref="char:EOLhyphen"/>tvveen the 29. and 30. to fill the reſt of the ditch, but thoſe of the tovvne did play ſo fiercely vp<g ref="char:EOLhyphen"/>on vs, that it vvas vnpoſſible; they throvy novv every night vvith pitchd crauſſes, for to ſee vvhereabouts ours doe vvorke, vve hope never<g ref="char:EOLhyphen"/>theleſſe next monday to myne againe.</p>
+               <p>Thoſe of the Tovvne haue this night made a fire vpon the ſteeple, vvhereupon vve preſume that it vvill not endure long vvith them.</p>
+               <p>The 30. is here taken Priſoner a Boor, vvhich did take money of both ſides.</p>
+               <p>The Ritmaſter <hi>Pannecouck</hi> vvhich vvas ſlaine in the defeating of the ſaid convoy is buried to day.</p>
+               <p>At Middleborrow a man called <hi>Cock,</hi> whoſe Father had beene Borromr. of Fluſhing was be<g ref="char:EOLhyphen"/>headed, on the 23. becauſe he had advertiſed the Enemies the deſignes and enterpriſes of the Prince of Orenge in former times, as alſo the ſe<g ref="char:EOLhyphen"/>crets vvhich hee could heare of the Eaſt and Weſt India Companies, that hee vvas familiar vvith great perſons of State.</p>
+               <p>The 24. vvas at <hi>Reveſteiu</hi> quartered a Tray<g ref="char:EOLhyphen"/>tor, vvhich thought to yeeld the Tovvne, being a Captaine <hi>des armes.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="sermon">
+            <pb n="12" facs="tcp:176679:8"/>
+            <head>Here followeth a Sermon made by the Biſhop within the Towne in S. <hi>Iohns</hi> Church, to ap<g ref="char:EOLhyphen"/>peaſe the Burgers and Inhabitants, which mutined, before the delivery of the Towne of <hi>S'hertogenboſh.</hi>
+            </head>
+            <head>THE BISHOPS SERMON.</head>
+            <p>MY loving Friends, and true Romiſh Catho<g ref="char:EOLhyphen"/>lickes, all yee that are here aſſembled vpon defire to heare me your good and true teacher, admitted by our moſt holieſt, worthieſt Father the Pope of Rome, Gods Lieutenant vpon the earth, by whoſe authority is given vnto me power to ex<g ref="char:EOLhyphen"/>erciſe this holy, high and worthy office, becauſe I haue heard and vnderſtood (by our good and faithfull brothers the Clergy) and I ſee alſo with heavie and ſorrowfull eyes, how that yet every day more and more doe increaſe your mutinies and alterations, and in ſtead of giving one to an other a good and couragious heart and minde, to withſtand the violence of the heretickes) you are in great amazement and feare, though not without great perill and danger, becauſe that ſince the be<g ref="char:EOLhyphen"/>ginning<pb n="13" facs="tcp:176679:8"/>of this tedious ſiege, there are in the town already deceaſed ſo many thouſand ſoules: But yee (O true good Romiſh Catholickes) ſhould thinke at all times how happy ſuch men are, which in this ſo holy place (during this ſiege) are decea<g ref="char:EOLhyphen"/>ſed, yea I know and aſſure you that the ſame, and all thoſe which yet may die, after they haue beene a little while in Purgatory, ſhall bee releaſed, and bee Children of the eternall and everlaſting life; I ſpeake of them, which dyed with a good and holy conſcience in the olde Romiſh Catholicke faith. My loving Burgers, and true men of warre, yee which are yet aliue, ſight now manfully for the Mother of God, and the holy Church, and doe conſtantly beleeue that by Gods grace they will not ſuffer the deſtruction of their people, by the vnfaithfull heretickes the <hi>Geuſes:</hi> Take a new cou<g ref="char:EOLhyphen"/>rage, it may be it is but a ſhort time that we ſhall be oppreſſed, which you may beleeue the rather, be<g ref="char:EOLhyphen"/>cauſe the winter is drawing neere, and they can not ſtay any longer in the field, for the great miſery which they ſhall endure. Let this bee the onely aime for your eyes, That yee (good peo<g ref="char:EOLhyphen"/>ple) doe know, that all the Saints in heaven, to wit, <hi>Mary</hi> Queene of the heavens, and alſo all the loving Apoſtles, ſtill doe pray for vs vnto the Fa<g ref="char:EOLhyphen"/>ther; yea not onely for vs which are yet living, but alſo for ſuch which (during this fiege) are dead: what a great comfort, what a great glorie is this for you to heare, That thoſe of your kin<g ref="char:EOLhyphen"/>dred, either Father, or Mother, Brother, or Siſter, Vncle, or Aunt, Cozen, or Neece, are gone to ſuch<pb n="14" facs="tcp:176679:9"/>a glorious and worthy voyage. Good people, if you did but know, in how great and vaſpeakable a felicity and ioy they are now in with all the Saints of God, I aſſure you ye ſhould not ſeare death, but ſhould preſent your ſelues vpon the walles, and runne in deſpite againſt your Enemies, that the ſooner ye might come into ſuch a bleſſedneſſe and happineſſe. All what I ſay here, (my good Ca<g ref="char:EOLhyphen"/>tholickes) ye may well belecue it, yea I will pawne my life therefore) where be now the
+<hi>Geuſes,</hi> haue they ſuch teachers, would or could they aſſure their people? I warrant you they will not, they will not, they haue not the power as we haue, to forgiue the ſinnes and the ſinners: They haue not a Pope ſitting vpon <hi>Peters</hi> Apoſtolicall chaire as wee haue, from vvhence ſhould come the povver vnto them; they haue no Cardinals, no Prelates, no Biſhops, no Prieſts, no Purgatorie, no Saints, no miracles: Alſo they doe denie the fiue Sacra<g ref="char:EOLhyphen"/>ments, the Confirmation, the Prieſthood, the Marriage, the Auricular Confeſſion, the extreme vnction: They denie alſo the adoration of the Saints, and will not ſuffer their pictures in their Churches to be as bookes of remembrance: they doe no Pilgrimages, no Invocation of Saints, &amp;c. I could rehearſe an hundred things more that they yet doe denie, but the time vvill not permit it, though I moſt tell you this, they dare ſtoutly de<g ref="char:EOLhyphen"/>ny, that our moſt holieſt, vvorthieſt Father, the Pope of Rome hath not povver to forgiue ſinnes: vvherefore doth then the holy Apoſtle <hi>Masthew</hi> vvrite in his eighteenth Chapter, Verily<pb n="15" facs="tcp:176679:9"/>I ſay vnto you, whatſoeuer ye ſhall bind on earth, ſhall be bound in heauen, and whatſo<g ref="char:EOLhyphen"/>euer ye ſhall looſe on earth, ſhall be looſed in heauen. Theſe are the words of Chriſt, who dare deny them? and becauſe it is knowne to all the holy Romiſh Catholickes, what power our moſt holieſt, worthieſt Father and Pope of Rome hath, who is admitted of the moſt Higheſt as a Lieutenant on earth ouer men, at preſent ſit<g ref="char:EOLhyphen"/>ting vpon the holy Romiſh Seate of the Apoſtle
+<hi>Peter,</hi> hauing full power, when it pleaſeth his Ho<g ref="char:EOLhyphen"/>lineſſe, to put in, and out of banne and paine, all Kings, Dukes, Princes, Counts, alſo all Spirituall and Temporall perſons: yea he hath power of the moſt Higheſt, if any body doth of<g ref="char:EOLhyphen"/>fend and reſiſt againſt our holy Mother the Ro<g ref="char:EOLhyphen"/>miſh Church, to purſue, proceede, and proſe<g ref="char:EOLhyphen"/>cute againſt the ſame with power and ſorces, and ſeeke to deſtroy theſe Heretickes and Secta<g ref="char:EOLhyphen"/>ries: our moſt holieſt Father the Pope of Rome, will preſently breake their attemps, intents, and deſines: alſo bring their Leager to nothing, and vs oppreſſed Catholickes he will releaſe and de<g ref="char:EOLhyphen"/>liuet, chiefly this our holy Towne of S'Herto<g ref="char:EOLhyphen"/>genboſh, which was neuer taken nor inhabited by the Heretickes, albeit this towne hath ſuf<g ref="char:EOLhyphen"/>fered ſeuerall hard ſieges, but neuer ſo faſt round about as it is now, though it ſeemes vn<g ref="char:EOLhyphen"/>poſſible for vs to be relieued, and becauſe the Heretickes (the Geuſes) haue vnexpectedly<pb n="16" facs="tcp:176679:10"/>taken the ſtrong towne of Weſell, which Count <hi>Henry vanden Berg</hi> might and could well haue helped, therefore wee feare that our moſt holieſt Father can but little helpe vs in this our vttermoſt need.</p>
+            <p>O my good true Catholickes, all which are here aſſembled, let my words enter into your eares, and remember them well in your hearts, becauſe wee are now all hopeles to be relieued from without, ſo will I according to my power comfort you, whereby yee may get againe a good courage. Good people, remember how in times paſt the Cittie Bethulia was be<g ref="char:EOLhyphen"/>ſieged, and almoſt famiſhed by <hi>Holofernes,</hi> ſo that there was no hope of reliefe for them to expect, yet by the deſine of a woman to wit,
+<hi>Iudith,</hi> is <hi>Holefernes</hi> put to death, his Lea<g ref="char:EOLhyphen"/>ger deſtroyed, and the towne relieued: this was not onely by <hi>Iudith,</hi> but by the prayers and faſting, which they within (during the ſiege) vnceſſantly continued, and confeſſed publikely their great ſinnes, and offences, which they had done before.</p>
+            <p>Therefore, ye true Romiſh Catholickes, Yee which are in like caſe, heare the words I ſhall ſay vnto you, what yee ſhall doe, and it ſhall helpe vs: Confeſſe your ſinnes before God, then before the Prieſt: and then yee ſhall doe Sacrifices and offrings vnto <hi>Ma<g ref="char:EOLhyphen"/>ry</hi> the mother of God: alſo to all Saints<pb n="17" facs="tcp:176679:10"/>which are in heauen, vnto them ſhall yee call, that they may be your Interceſſors, and pray for vs, that this our holy towne may not fall into the hands of the Heretickes, for the prayers of the Saints ſhall be ſooner heard by God then our prayers, and no doubt <hi>Mary</hi> the holy mother of our Lord Ieſus Chriſt, ſhall eaſily and ſurely command her deare Sonne, to releaſe vs out of all our miſeries, wherein we are at this preſent. Meane while: good peo<g ref="char:EOLhyphen"/>ple, pray and faſt vnceſſantly: in the morning when you riſe, yee ſhall ſay ouer thrice your Beades or Rooſencroſſes, and fiue
+<hi>Aue Ma<g ref="char:EOLhyphen"/>rias,</hi> with two <hi>Pater noſters:</hi> at dinner yee ſhall read one Rooſencroſſe and three <hi>Aue Marias:</hi> at night againe fiue Rooſencroſſes, with three <hi>Pater noſters,</hi> and one
+<hi>Credo:</hi> it may be (true Romiſh Catholickes and deuoute hearts) that will helpe vs, I doe not doubt of it, be ye no more ſo mutinous among your ſelues, I pray you, good people, be contented yet for a day, three or foure, if ye are not helped, then, as I haue ſaid, in my Sermon, ſo doe then what you pleaſe, and ſo I take my leaue of you, and be yee mindfull at all times of that which I haue taught here by this my Sermon: So I com<g ref="char:EOLhyphen"/>mend you to God, the bleſſed <hi>Mary,</hi> the holy mother of God, with all the Saints. Amen.</p>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb n="18" facs="tcp:176679:11"/>
+            <head>To the Reader.</head>
+            <lg>
+               <l>
+                  <hi>You friendly Readers heare,</hi>
+               </l>
+               <l>
+                  <hi>how that this fooliſh Prelate,</hi>
+               </l>
+               <l>
+                  <hi>Poore peoples eyes would bleare</hi>
+               </l>
+               <l>
+                  <hi>with fabl's he doth relate,</hi>
+               </l>
+               <l>
+                  <hi>In ſtead of giuing glory</hi>
+               </l>
+               <l>
+                  <hi>to God, and Chriſt our hope,</hi>
+               </l>
+               <l>
+                  <hi>To truſt in his falſe ſtory,</hi>
+               </l>
+               <l>
+                  <hi>and Pardons of the Pope,</hi>
+               </l>
+               <l>
+                  <hi>And that to get forgiuing</hi>
+               </l>
+               <l>
+                  <hi>of their offences all,</hi>
+               </l>
+               <l>
+                  <hi>The way is to beleeue in</hi>
+               </l>
+               <l>
+                  <hi>and on deafe Saints to call.</hi>
+               </l>
+               <l>
+                  <hi>It's time to open your eyes,</hi>
+               </l>
+               <l>
+                  <hi>you of the popiſh faction,</hi>
+               </l>
+               <l>
+                  <hi>Truth makes men bold and wiſe,</hi>
+               </l>
+               <l>
+                  <hi>crownes with ſucceſſe each action.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176679:11" rendition="simple:additions"/>
+            <pb facs="tcp:176679:12" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
